@@ -7,8 +7,7 @@ const DATA_DIR = path.join(__dirname, "..", "data");
 const STATE_FILE = path.join(DATA_DIR, "hunting-state.json");
 
 const ADMINS = new Set([
-  "61594616562680",
-  "61594981323552"
+  "61552416687526",
 ]);
 
 const REPLY_INTERVAL = 10000;
